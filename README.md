@@ -1,0 +1,1 @@
+Solution files for all courses provided at https://www.freecodecamp.org/
