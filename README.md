@@ -1,4 +1,4 @@
-Solution files for all free certifications provided at https://www.freecodecamp.org/
+Solution files for all course certifications available at https://www.freecodecamp.org/
 
 - [x] Responsive Web Design Certification (300 hours)
 - [x] JavaScript Algorithms and Data Structures Certification (300 hours)
