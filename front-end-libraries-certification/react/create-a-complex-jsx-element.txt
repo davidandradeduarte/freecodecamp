@@ -1,0 +1,10 @@
+const JSX =
+<div>
+  <h1>Hello</h1>
+  <p>This is an example of multiple elements inside a single element in JSX.</p>
+  <ul>
+    <li>this</li>
+    <li>is a</li>
+    <li>list</li>
+  </ul>
+</div>
